@@ -1,0 +1,111 @@
+D:\инст\4 семестр\ТАиФЯ\lab1c#\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\инст\4 семестр\ТАиФЯ\lab1c#\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\инст\4 семестр\ТАиФЯ\lab1c#\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\инст\4 семестр\ТАиФЯ\lab1c#\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\инст\4 семестр\ТАиФЯ\lab1c#\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\инст\4 семестр\ТАиФЯ\lab1c#\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\инст\4 семестр\ТАиФЯ\lab1c#\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\инст\4 семестр\ТАиФЯ\lab1c#\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\инст\4 семестр\ТАиФЯ\lab1c#\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+F:\old hard\инст\II курс\4 семестр\Таифя\лаба1\lab1c#\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+F:\old hard\инст\II курс\4 семестр\Таифя\лаба1\lab1c#\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+F:\old hard\инст\II курс\4 семестр\Таифя\лаба1\lab1c#\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+F:\old hard\инст\II курс\4 семестр\Таифя\лаба1\lab1c#\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+F:\old hard\инст\II курс\4 семестр\Таифя\лаба1\lab1c#\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+F:\old hard\инст\II курс\4 семестр\Таифя\лаба1\lab1c#\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+F:\old hard\инст\II курс\4 семестр\Таифя\лаба1\lab1c#\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+F:\old hard\инст\II курс\4 семестр\Таифя\лаба1\lab1c#\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+F:\old hard\инст\II курс\4 семестр\Таифя\лаба1\lab1c#\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+F:\old hard\инст\II курс\4 семестр\Таифя\лаба2\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+F:\old hard\инст\II курс\4 семестр\Таифя\лаба2\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+F:\old hard\инст\II курс\4 семестр\Таифя\лаба2\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+F:\old hard\инст\II курс\4 семестр\Таифя\лаба2\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+F:\old hard\инст\II курс\4 семестр\Таифя\лаба2\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+F:\old hard\инст\II курс\4 семестр\Таифя\лаба2\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+F:\old hard\инст\II курс\4 семестр\Таифя\лаба2\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+F:\old hard\инст\II курс\4 семестр\Таифя\лаба2\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+F:\old hard\инст\II курс\4 семестр\Таифя\лаба2\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+F:\old hard\инст\II курс\4 семестр\Таифя\лаба2\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+F:\old hard\инст\II курс\4 семестр\Таифя\лаба6\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+F:\old hard\инст\II курс\4 семестр\Таифя\лаба6\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+F:\old hard\инст\II курс\4 семестр\Таифя\лаба6\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+F:\old hard\инст\II курс\4 семестр\Таифя\лаба6\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+F:\old hard\инст\II курс\4 семестр\Таифя\лаба6\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+F:\old hard\инст\II курс\4 семестр\Таифя\лаба6\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+F:\old hard\инст\II курс\4 семестр\Таифя\лаба6\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+F:\old hard\инст\II курс\4 семестр\Таифя\лаба6\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+F:\old hard\инст\II курс\4 семестр\Таифя\лаба6\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+F:\old hard\инст\II курс\4 семестр\Таифя\лаба6\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+F:\old hard\инст\II курс\4 семестр\Таифя\лаба7\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+F:\old hard\инст\II курс\4 семестр\Таифя\лаба7\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+F:\old hard\инст\II курс\4 семестр\Таифя\лаба7\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+F:\old hard\инст\II курс\4 семестр\Таифя\лаба7\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+F:\old hard\инст\II курс\4 семестр\Таифя\лаба7\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+F:\old hard\инст\II курс\4 семестр\Таифя\лаба7\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+F:\old hard\инст\II курс\4 семестр\Таифя\лаба7\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+F:\old hard\инст\II курс\4 семестр\Таифя\лаба7\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+F:\old hard\инст\II курс\4 семестр\Таифя\лаба7\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+F:\old hard\инст\II курс\4 семестр\Таифя\лаба7\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+F:\old hard\инст\II курс\4 семестр\Таифя\курсовой\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+F:\old hard\инст\II курс\4 семестр\Таифя\курсовой\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+F:\old hard\инст\II курс\4 семестр\Таифя\курсовой\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+F:\old hard\инст\II курс\4 семестр\Таифя\курсовой\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+F:\old hard\инст\II курс\4 семестр\Таифя\курсовой\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+F:\old hard\инст\II курс\4 семестр\Таифя\курсовой\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+F:\old hard\инст\II курс\4 семестр\Таифя\курсовой\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+F:\old hard\инст\II курс\4 семестр\Таифя\курсовой\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+F:\old hard\инст\II курс\4 семестр\Таифя\курсовой\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+F:\old hard\инст\II курс\4 семестр\Таифя\курсовой\REDAKTIRUI\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+F:\old hard\инст\II курс\4 семестр\Таифя\курсовой\REDAKTIRUI\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+F:\old hard\инст\II курс\4 семестр\Таифя\курсовой\REDAKTIRUI\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+F:\old hard\инст\II курс\4 семестр\Таифя\курсовой\REDAKTIRUI\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+F:\old hard\инст\II курс\4 семестр\Таифя\курсовой\REDAKTIRUI\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+F:\old hard\инст\II курс\4 семестр\Таифя\курсовой\REDAKTIRUI\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+F:\old hard\инст\II курс\4 семестр\Таифя\курсовой\REDAKTIRUI\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+F:\old hard\инст\II курс\4 семестр\Таифя\курсовой\REDAKTIRUI\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+F:\old hard\инст\II курс\4 семестр\Таифя\курсовой\REDAKTIRUI\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+F:\old hard\инст\II курс\4 семестр\Таифя\курсовой\REDAKTIRUI_pokazh\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+F:\old hard\инст\II курс\4 семестр\Таифя\курсовой\REDAKTIRUI_pokazh\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+F:\old hard\инст\II курс\4 семестр\Таифя\курсовой\REDAKTIRUI_pokazh\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+F:\old hard\инст\II курс\4 семестр\Таифя\курсовой\REDAKTIRUI_pokazh\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+F:\old hard\инст\II курс\4 семестр\Таифя\курсовой\REDAKTIRUI_pokazh\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+F:\old hard\инст\II курс\4 семестр\Таифя\курсовой\REDAKTIRUI_pokazh\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+F:\old hard\инст\II курс\4 семестр\Таифя\курсовой\REDAKTIRUI_pokazh\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+F:\old hard\инст\II курс\4 семестр\Таифя\курсовой\REDAKTIRUI_pokazh\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+F:\old hard\инст\II курс\4 семестр\Таифя\курсовой\REDAKTIRUI_pokazh\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+F:\old hard\инст\II курс\4 семестр\Таифя\курсовойТаифя\REDAKTIRUI_pokazh\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+F:\old hard\инст\II курс\4 семестр\Таифя\курсовойТаифя\REDAKTIRUI_pokazh\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+F:\old hard\инст\II курс\4 семестр\Таифя\курсовойТаифя\REDAKTIRUI_pokazh\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+F:\old hard\инст\II курс\4 семестр\Таифя\курсовойТаифя\REDAKTIRUI_pokazh\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+F:\old hard\инст\II курс\4 семестр\Таифя\курсовойТаифя\REDAKTIRUI_pokazh\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+F:\old hard\инст\II курс\4 семестр\Таифя\курсовойТаифя\REDAKTIRUI_pokazh\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+F:\old hard\инст\II курс\4 семестр\Таифя\курсовойТаифя\REDAKTIRUI_pokazh\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+F:\old hard\инст\II курс\4 семестр\Таифя\курсовойТаифя\REDAKTIRUI_pokazh\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+F:\old hard\инст\II курс\4 семестр\Таифя\курсовойТаифя\REDAKTIRUI_pokazh\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+F:\old hard\инст\II курс\4 семестр\Таифя\курсовойТаифя\REDAKTIRUI_pokazh tek rab\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+F:\old hard\инст\II курс\4 семестр\Таифя\курсовойТаифя\REDAKTIRUI_pokazh tek rab\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+F:\old hard\инст\II курс\4 семестр\Таифя\курсовойТаифя\REDAKTIRUI_pokazh tek rab\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+F:\old hard\инст\II курс\4 семестр\Таифя\курсовойТаифя\REDAKTIRUI_pokazh tek rab\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+F:\old hard\инст\II курс\4 семестр\Таифя\курсовойТаифя\REDAKTIRUI_pokazh tek rab\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+F:\old hard\инст\II курс\4 семестр\Таифя\курсовойТаифя\REDAKTIRUI_pokazh tek rab\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+F:\old hard\инст\II курс\4 семестр\Таифя\курсовойТаифя\REDAKTIRUI_pokazh tek rab\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+F:\old hard\инст\II курс\4 семестр\Таифя\курсовойТаифя\REDAKTIRUI_pokazh tek rab\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+F:\old hard\инст\II курс\4 семестр\Таифя\курсовойТаифя\REDAKTIRUI_pokazh tek rab\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+F:\old hard\инст\II курс\4 семестр\Таифя\курсовойТаифя\REDAKTIRUI_pokazh tek rab!!!\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+F:\old hard\инст\II курс\4 семестр\Таифя\курсовойТаифя\REDAKTIRUI_pokazh tek rab!!!\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+F:\old hard\инст\II курс\4 семестр\Таифя\курсовойТаифя\REDAKTIRUI_pokazh tek rab!!!\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+F:\old hard\инст\II курс\4 семестр\Таифя\курсовойТаифя\REDAKTIRUI_pokazh tek rab!!!\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+F:\old hard\инст\II курс\4 семестр\Таифя\курсовойТаифя\REDAKTIRUI_pokazh tek rab!!!\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+F:\old hard\инст\II курс\4 семестр\Таифя\курсовойТаифя\REDAKTIRUI_pokazh tek rab!!!\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+F:\old hard\инст\II курс\4 семестр\Таифя\курсовойТаифя\REDAKTIRUI_pokazh tek rab!!!\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+F:\old hard\инст\II курс\4 семестр\Таифя\курсовойТаифя\REDAKTIRUI_pokazh tek rab!!!\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+F:\old hard\инст\II курс\4 семестр\Таифя\курсовойТаифя\REDAKTIRUI_pokazh tek rab!!!\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+F:\old hard\инст\II курс\4 семестр\Таифя\курсовойТаифя\на проверку и изменяй все тут\REDAKTIRUI_pokazh tek rab!!!\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+F:\old hard\инст\II курс\4 семестр\Таифя\курсовойТаифя\на проверку и изменяй все тут\REDAKTIRUI_pokazh tek rab!!!\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+F:\old hard\инст\II курс\4 семестр\Таифя\курсовойТаифя\на проверку и изменяй все тут\REDAKTIRUI_pokazh tek rab!!!\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+F:\old hard\инст\II курс\4 семестр\Таифя\курсовойТаифя\на проверку и изменяй все тут\REDAKTIRUI_pokazh tek rab!!!\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+F:\old hard\инст\II курс\4 семестр\Таифя\курсовойТаифя\на проверку и изменяй все тут\REDAKTIRUI_pokazh tek rab!!!\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+F:\old hard\инст\II курс\4 семестр\Таифя\курсовойТаифя\на проверку и изменяй все тут\REDAKTIRUI_pokazh tek rab!!!\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+F:\old hard\инст\II курс\4 семестр\Таифя\курсовойТаифя\на проверку и изменяй все тут\REDAKTIRUI_pokazh tek rab!!!\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+F:\old hard\инст\II курс\4 семестр\Таифя\курсовойТаифя\на проверку и изменяй все тут\REDAKTIRUI_pokazh tek rab!!!\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+F:\old hard\инст\II курс\4 семестр\Таифя\курсовойТаифя\на проверку и изменяй все тут\REDAKTIRUI_pokazh tek rab!!!\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache

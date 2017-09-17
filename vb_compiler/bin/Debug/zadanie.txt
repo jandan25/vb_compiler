@@ -1,0 +1,8 @@
+dim a as integer
+dim b as integer
+a = 0
+b = 1
+do while a < 10
+b = b + a
+a = a + 1
+loop

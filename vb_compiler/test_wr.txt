@@ -1,0 +1,7 @@
+.Dim x as integer
+/
+Dim i as integer;
+x==0
+fwr i=1 to 10
+	x=x+i
+next for

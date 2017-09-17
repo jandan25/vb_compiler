@@ -1,0 +1,3 @@
+﻿int 3;
+double 4,3;
+string test;

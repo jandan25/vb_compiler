@@ -1,0 +1,9 @@
+﻿Dim x as integer 
+Dim i as integer
+Dim perem123 as integer = 33 
+' комментарий
+as strea
+x=0
+for i=1 to 10
+	x=x+i
+next for
